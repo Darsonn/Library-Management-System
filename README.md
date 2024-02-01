@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library Management System
 Library Management System written in Java using Swing and JDBC
 
 The root user has the username "root" with the password "admin123" for testing.
